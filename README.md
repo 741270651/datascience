@@ -1,4 +1,3 @@
-### Systematic learning records.
+### 数据科学学习笔记
 
-- Jupyter Notebook as form
-- Only personal notes.
+> "先跑起来再说!"
