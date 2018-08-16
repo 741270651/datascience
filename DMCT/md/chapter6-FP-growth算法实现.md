@@ -18,7 +18,7 @@ credits: https://blog.csdn.net/gamer_gyt/article/details/51113753
 
 
 ```python
-inputfile = './data/AllElectronics_orders.xls'
+inputfile = '../data/AllElectronics_orders.xls'
 
 data = pd.read_excel(inputfile, header=None)
 ```

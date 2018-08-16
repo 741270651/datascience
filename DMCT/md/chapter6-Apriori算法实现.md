@@ -136,7 +136,7 @@ def confidence(L: pd.DataFrame, L_):
 
 
 ```python
-inputfile = './data/AllElectronics_orders.xls'
+inputfile = '../data/AllElectronics_orders.xls'
 
 data = pd.read_excel(inputfile, header=None)
 ```
